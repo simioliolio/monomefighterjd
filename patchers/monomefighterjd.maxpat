@@ -9,7 +9,7 @@
 			"modernui" : 1
 		}
 ,
-		"rect" : [ 243.0, 109.0, 880.0, 736.0 ],
+		"rect" : [ 861.0, 285.0, 249.0, 102.0 ],
 		"bglocked" : 0,
 		"openinpresentation" : 0,
 		"default_fontsize" : 12.0,
@@ -37,6 +37,20 @@
 		"style" : "",
 		"subpatcher_template" : "",
 		"boxes" : [ 			{
+				"box" : 				{
+					"id" : "obj-2",
+					"maxclass" : "comment",
+					"numinlets" : 1,
+					"numoutlets" : 0,
+					"patching_rect" : [ 100.0, 136.0, 150.0, 20.0 ],
+					"presentation" : 1,
+					"presentation_rect" : [ 14.0, 15.0, 99.0, 20.0 ],
+					"style" : "",
+					"text" : "monomefighterjd"
+				}
+
+			}
+, 			{
 				"box" : 				{
 					"fontname" : "Arial",
 					"fontsize" : 12.0,
@@ -1178,7 +1192,7 @@
 ,
 					"patching_rect" : [ 120.0, 254.0, 205.0, 25.0 ],
 					"presentation" : 1,
-					"presentation_rect" : [ 14.0, 26.0, 205.0, 25.0 ],
+					"presentation_rect" : [ 14.0, 44.0, 205.0, 25.0 ],
 					"viewvisibility" : 1
 				}
 
